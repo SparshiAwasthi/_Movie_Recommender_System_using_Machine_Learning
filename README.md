@@ -1,5 +1,5 @@
 # _Movie_Recommender_System_using_Machine_Learning
-A movie recommender system built on machine learning using collaborative filtering 
+A movie recommender system built on machine learning using Item-based collaborative filtering technique. By analyzing user ratings and movie data, the system identifies similarities between movies and provides personalized recommendations to users.
 
 ## The dataset
 
